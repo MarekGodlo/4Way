@@ -1,0 +1,13 @@
+.pio/
+build/
+lib_deps/
+
+.vscode/
+
+.log
+.tmp
+.swp
+.swo
+.DS_Store
+Thumbs.db
+__pycache__/
